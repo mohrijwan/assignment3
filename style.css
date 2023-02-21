@@ -9,6 +9,7 @@ body{
     background-image: url(/asets/bg.png);
     background-size:cover;
     font-family: 'Poppins', sans-serif;
+    background-size: 100% 100%;
 }
 nav  {
     background-color: black;
